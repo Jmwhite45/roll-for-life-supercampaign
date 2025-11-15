@@ -336,6 +336,6 @@
             "taldor-family"
         ]
   }],
-  "download": "https://github.com/Jmwhite45/roll-for-life-supercampaign/archive/refs/tags/v0.1.zip",
-  "manifest": "https://raw.githubusercontent.com/Jmwhite45/roll-for-life-supercampaign/refs/heads/main/module.json"
+  "download": "https://github.com/Jmwhite45/roll-for-life-supercampaign/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/Jmwhite45/roll-for-life-supercampaign/releases/latest/download/module.zip"
 }
