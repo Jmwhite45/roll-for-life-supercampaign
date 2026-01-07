@@ -110,171 +110,182 @@
       "label": "RotR - Loot",
       "path": "packs/rotr-loot",
       "type": "Actor",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "rotr-music",
       "label": "RotR - Music",
       "path": "packs/rotr-music",
       "type": "Playlist",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "rotr-rolltables",
       "label": "RotR  - Rolltables",
       "path": "packs/rotr-rolltables",
       "type": "RollTable",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "rotr-scenes",
       "label": "RotR - scenes",
       "path": "packs/rotr-scenes",
       "type": "Scene",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "cotct-actors",
       "label": "CotCT - Actors",
       "path": "packs/cotct-actors",
       "type": "Actor",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "cotct-journals",
       "label": "CotCT - Journals",
       "path": "packs/cotct-journals",
       "type": "JournalEntry",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "cotct-scenes",
       "label": "CotCT - Scenes",
       "path": "packs/cotct-scenes",
       "type": "Scene",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-actors",
       "label": "SD - Actors",
       "path": "packs/sd-actors",
       "type": "Actor",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-items",
       "label": "SD - Items",
       "path": "packs/sd-items",
       "type": "Item",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-journals",
       "label": "SD - Journals",
       "path": "packs/sd-journals",
       "type": "JournalEntry",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-loot",
       "label": "SD - Loot",
       "path": "packs/sd-loot",
       "type": "Actor",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-music",
       "label": "SD - Music",
       "path": "packs/sd-music",
       "type": "Playlist",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-rolltables",
       "label": "SD - Rolltables",
       "path": "packs/sd-rolltables",
       "type": "RollTable",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-scenes",
       "label": "SD - Scenes",
       "path": "packs/sd-scenes",
       "type": "Scene",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "sd-macros",
       "label": "SD - Macros",
       "path": "packs/sd-macros",
       "type": "Macro",
+      "system": "pf1",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf1"
+      }
     },
     {
       "name": "rotr-macros",
       "label": "RotR - Macros",
       "path": "packs/rotr-macros",
       "type": "Macro",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gems",
+      "label": "Gems/Art",
+      "path": "packs/gems",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -284,58 +295,63 @@
   ],
   "packFolders": [
     {
-        "name": "Super Campaign",
-        "sorting": "a",
-        "folders": [
-            {
-                "name": "1) Rise of the Runelords",
-                "color": "#690c01",
-                "sorting": "a",
-                "packs": [
-                    "rotr-actors",
-                    "rotr-buffs",
-                    "rotr-items",
-                    "rotr-journals",
-                    "rotr-loot",
-                    "rotr-music",
-                    "rotr-rolltables",
-                    "rotr-scenes",
-                    "rotr-macros"
-                ]
-            },
-            {
-                "name": "2) Curse of the Crimson Throne",
-                "color": "#bc2f26",
-                "sorting": "a",
-                "packs": [
-                    "cotct-actors",
-                    "cotct-journals",
-                    "cotct-scenes"
-                ]
-            },
-            {
-                "name": "3) Second Darkness",
-                "color": "#3B4356",
-                "sorting": "a",
-                "packs": [
-                    "sd-actors",
-                    "sd-items",
-                    "sd-journals",
-                    "sd-loot",
-                    "sd-music",
-                    "sd-rolltables",
-                    "sd-scenes",
-                    "sd-macros"
-                ]
-            }
-        ],
-        "packs": [
-            "super-campaign-landings",
-            "super-campaign-pcs",
-            "world-maps",
-            "taldor-family"
-        ]
-  }],
+      "name": "Super Campaign",
+      "sorting": "a",
+      "folders": [
+        {
+          "name": "1) Rise of the Runelords",
+          "color": "#690c01",
+          "sorting": "a",
+          "packs": [
+            "rotr-actors",
+            "rotr-buffs",
+            "rotr-items",
+            "rotr-journals",
+            "rotr-loot",
+            "rotr-music",
+            "rotr-rolltables",
+            "rotr-scenes",
+            "rotr-macros"
+          ],
+          "folders": []
+        },
+        {
+          "name": "2) Curse of the Crimson Throne",
+          "color": "#bc2f26",
+          "sorting": "a",
+          "packs": [
+            "cotct-actors",
+            "cotct-journals",
+            "cotct-scenes"
+          ],
+          "folders": []
+        },
+        {
+          "name": "3) Second Darkness",
+          "color": "#3b4356",
+          "sorting": "a",
+          "packs": [
+            "sd-actors",
+            "sd-items",
+            "sd-journals",
+            "sd-loot",
+            "sd-music",
+            "sd-rolltables",
+            "sd-scenes",
+            "sd-macros"
+          ],
+          "folders": []
+        }
+      ],
+      "packs": [
+        "super-campaign-landings",
+        "super-campaign-pcs",
+        "world-maps",
+        "taldor-family"
+      ],
+      "color": null
+    }
+  ],
   "download": "https://github.com/Jmwhite45/roll-for-life-supercampaign/archive/refs/heads/main.zip",
-  "manifest": "https://github.com/Jmwhite45/roll-for-life-supercampaign/blob/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/Jmwhite45/roll-for-life-supercampaign/refs/heads/main/module.json"
 }
