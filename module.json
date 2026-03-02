@@ -291,6 +291,28 @@
         "ASSISTANT": "OWNER"
       },
       "system": "pf1"
+    },
+    {
+      "name": "cotct-buffs",
+      "label": "CotCT - Buffs",
+      "path": "packs/cotct-buffs",
+      "type": "Item",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cotct-items",
+      "label": "CotCT - Items",
+      "path": "packs/cotct-items",
+      "type": "Item",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -322,7 +344,9 @@
           "packs": [
             "cotct-actors",
             "cotct-journals",
-            "cotct-scenes"
+            "cotct-scenes",
+            "cotct-buffs",
+            "cotct-items"
           ],
           "folders": []
         },
