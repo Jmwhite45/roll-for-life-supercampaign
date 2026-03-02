@@ -1,8 +1,28 @@
-2026/03/02-05:37:17.404572 e78e2200f100 Recovering log #834
-2026/03/02-05:37:17.409679 e78e2200f100 Delete type=3 #832
-2026/03/02-05:37:17.409712 e78e2200f100 Delete type=0 #834
-2026/03/02-05:45:51.528785 e78befa0f100 Level-0 table #839: started
-2026/03/02-05:45:51.529407 e78befa0f100 Level-0 table #839: 0 bytes OK
-2026/03/02-05:45:51.533253 e78befa0f100 Delete type=0 #837
-2026/03/02-05:45:51.537361 e78befa0f100 Manual compaction at level-0 from '!folders!2q93G4sxF9At5B3M' @ 72057594037927935 : 1 .. '!journal.pages!ysJVg0JPtuOKq6tz.j41hZf2OAeb7xvQj' @ 0 : 0; will stop at (end)
-2026/03/02-05:45:51.537396 e78befa0f100 Manual compaction at level-1 from '!folders!2q93G4sxF9At5B3M' @ 72057594037927935 : 1 .. '!journal.pages!ysJVg0JPtuOKq6tz.j41hZf2OAeb7xvQj' @ 0 : 0; will stop at (end)
+2026/03/02-12:39:28.067 7f18 Recovering log #838
+2026/03/02-12:39:28.080 7f18 Delete type=2 #35
+2026/03/02-12:39:28.081 7f18 Delete type=2 #36
+2026/03/02-12:39:28.081 7f18 Delete type=2 #37
+2026/03/02-12:39:28.082 7f18 Delete type=2 #38
+2026/03/02-12:39:28.082 7f18 Delete type=2 #39
+2026/03/02-12:39:28.082 7f18 Delete type=0 #75
+2026/03/02-12:39:28.082 7f18 Delete type=2 #96
+2026/03/02-12:39:28.083 7f18 Delete type=2 #97
+2026/03/02-12:39:28.083 7f18 Delete type=2 #98
+2026/03/02-12:39:28.084 7f18 Delete type=2 #99
+2026/03/02-12:39:28.085 7f18 Delete type=2 #100
+2026/03/02-12:39:28.085 7f18 Delete type=2 #101
+2026/03/02-12:39:28.086 7f18 Delete type=2 #102
+2026/03/02-12:39:28.086 7f18 Delete type=2 #103
+2026/03/02-12:39:28.086 7f18 Delete type=2 #104
+2026/03/02-12:39:28.087 7f18 Delete type=2 #105
+2026/03/02-12:39:28.087 7f18 Delete type=2 #106
+2026/03/02-12:39:28.088 7f18 Delete type=2 #107
+2026/03/02-12:39:28.089 7f18 Delete type=2 #108
+2026/03/02-12:39:28.090 7f18 Delete type=2 #109
+2026/03/02-12:39:28.090 7f18 Delete type=2 #110
+2026/03/02-12:39:28.091 7f18 Delete type=2 #111
+2026/03/02-12:39:28.091 7f18 Delete type=0 #132
+2026/03/02-12:39:28.091 7f18 Delete type=0 #838
+2026/03/02-12:39:28.091 7f18 Delete type=3 #74
+2026/03/02-12:39:28.092 7f18 Delete type=3 #130
+2026/03/02-12:39:28.092 7f18 Delete type=3 #836
