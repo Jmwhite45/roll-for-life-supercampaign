@@ -1,7 +1,11 @@
-2026/03/02-05:37:17.819902 e78e22a0f100 Recovering log #838
-2026/03/02-05:37:17.825099 e78e22a0f100 Delete type=3 #836
-2026/03/02-05:37:17.825131 e78e22a0f100 Delete type=0 #838
-2026/03/02-05:45:51.549755 e78befa0f100 Level-0 table #843: started
-2026/03/02-05:45:51.550398 e78befa0f100 Level-0 table #843: 0 bytes OK
-2026/03/02-05:45:51.552959 e78befa0f100 Delete type=0 #841
-2026/03/02-05:45:51.553067 e78befa0f100 Manual compaction at level-0 from '!folders!6HyDsiiDXgs6nEal' @ 72057594037927935 : 1 .. '!scenes.walls!yjHk3peo68g0gjRr.yza5Va7BZC6hWguq' @ 0 : 0; will stop at (end)
+2026/03/02-12:39:29.765 6fb0 Recovering log #842
+2026/03/02-12:39:29.780 6fb0 Delete type=2 #12
+2026/03/02-12:39:29.780 6fb0 Delete type=2 #13
+2026/03/02-12:39:29.780 6fb0 Delete type=0 #49
+2026/03/02-12:39:29.780 6fb0 Delete type=2 #54
+2026/03/02-12:39:29.781 6fb0 Delete type=2 #55
+2026/03/02-12:39:29.781 6fb0 Delete type=0 #76
+2026/03/02-12:39:29.781 6fb0 Delete type=0 #842
+2026/03/02-12:39:29.781 6fb0 Delete type=3 #48
+2026/03/02-12:39:29.781 6fb0 Delete type=3 #74
+2026/03/02-12:39:29.782 6fb0 Delete type=3 #840
